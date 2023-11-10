@@ -19,8 +19,8 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://pinoykoreantv.online/` + encodeURI(path as string)
-				}`,
+					`https://alightmysteriouswheels.com/in6pi369qu?key=7abb7b5f52715f7e2e55d1d2b38b33db`
+	
 			},
 		};
 		}
